@@ -1,0 +1,13 @@
+* Font: Montserrat
+* Color: pick color on model shot
+
+* What can we do
+    - placer une video qui joue en boucle sans le son à la place de l'image
+* Grid:
+    - le conteneur principal ne doit pas être plus grand que 1250px
+    - body base padding: 30px 60px
+
+* Newsletter:
+    - ne pas tenir compte du bonhomme se trouvant sur le côté
+
+project: https://dribbble.com/shots/15198309-Videry-Project-Management-Website-2021/attachments/6942132?mode=media
